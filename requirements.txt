@@ -1,0 +1,8 @@
+# Lista de dependencias para un dashboard financiero:
+# streamlit, pandas, plotly, yfinance, requests, beautifulsoup4
+streamlit
+pandas
+plotly
+yfinance
+requests
+beautifulsoup4
